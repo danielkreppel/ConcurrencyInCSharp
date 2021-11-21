@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\dkrep\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\dkrep\\.nuget\\packages"
+    ]
+  }
+}

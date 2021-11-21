@@ -1,0 +1,7 @@
+C:\Users\dkrep\source\repos\ConcurrencyInCS\ConsoleDeadlock\bin\Debug\ConsoleDeadlock.exe.config
+C:\Users\dkrep\source\repos\ConcurrencyInCS\ConsoleDeadlock\bin\Debug\ConsoleDeadlock.exe
+C:\Users\dkrep\source\repos\ConcurrencyInCS\ConsoleDeadlock\bin\Debug\ConsoleDeadlock.pdb
+C:\Users\dkrep\source\repos\ConcurrencyInCS\ConsoleDeadlock\obj\Debug\ConsoleDeadlock.csproj.AssemblyReference.cache
+C:\Users\dkrep\source\repos\ConcurrencyInCS\ConsoleDeadlock\obj\Debug\ConsoleDeadlock.csproj.CoreCompileInputs.cache
+C:\Users\dkrep\source\repos\ConcurrencyInCS\ConsoleDeadlock\obj\Debug\ConsoleDeadlock.exe
+C:\Users\dkrep\source\repos\ConcurrencyInCS\ConsoleDeadlock\obj\Debug\ConsoleDeadlock.pdb
